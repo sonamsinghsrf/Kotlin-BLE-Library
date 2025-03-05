@@ -4,6 +4,8 @@ The library simplifies usage of Android Bluetooth Low Energy on Android. It is a
 native API and uses Kotlin Coroutines for asynchronous operations. The usage is designed to be more
 natural according to the BLE specification.
 
+
+##test 1
 ## BLE Scanner
 
 This module contains a scanner class which provides the list of available Bluetooth LE devices. Each 
